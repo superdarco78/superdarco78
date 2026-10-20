@@ -23,7 +23,7 @@ Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu 
 
 ### [Roleta dzień-noc](https://github.com/superdarco78/roleta-realistyczna)
 
-Twoja roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacja jedzie w tempie silnika, a za szybą widać aktualną pogodę i porę dnia. Kreator ustawia wszystko sam, bez YAML.
+Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacja jest zsynchronizowana z silnikiem, a za szybą widać aktualną pogodę i porę dnia. Kreator ustawia wszystko sam, bez YAML.
 
 [![Wersja](https://img.shields.io/github/v/release/superdarco78/roleta-realistyczna?style=for-the-badge&label=wersja&color=0288d1)](https://github.com/superdarco78/roleta-realistyczna/releases)
 [![Pobrania](https://img.shields.io/github/downloads/superdarco78/roleta-realistyczna/total?style=for-the-badge&label=pobrania&color=2e7d32)](https://github.com/superdarco78/roleta-realistyczna/releases)
