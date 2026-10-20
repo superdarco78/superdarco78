@@ -48,7 +48,7 @@ Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacj
   <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/okno.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany-jasne/okno.png" width="24%"></picture></a>
   <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/noc.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany-jasne/noc.png" width="24%"></picture></a>
 </p>
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/animacja.gif" width="300" alt="Animacja"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/animacja-ciemna.gif"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/animacja.gif" width="300" alt="Animacja"></picture></p>
 
 Pełny spis: [**superdarco78/HA**](https://github.com/superdarco78/HA)
 
