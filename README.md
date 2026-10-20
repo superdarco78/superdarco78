@@ -1,4 +1,4 @@
-<p align="center"><img src="img/avatar.png" width="140" alt="superdarco78"></p>
+<p align="center"><img src="img/avatar-kolo.png" width="160" alt="superdarco78"></p>
 <h1 align="center">Cześć, tu Darek 👋</h1>
 <p align="center"><b>Home Assistant · karty Lovelace · inteligentny dom</b><br>
 Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu i dają się ustawić klikając, bez YAML.</p>
