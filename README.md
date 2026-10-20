@@ -6,13 +6,16 @@ Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu 
   <a href="https://github.com/superdarco78?tab=followers"><img src="https://img.shields.io/github/followers/superdarco78?style=for-the-badge&label=obserwuj&color=03a9f4" alt="Obserwujący"></a>
   <a href="https://www.home-assistant.io/"><img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"></a>
   <a href="https://hacs.xyz"><img src="https://img.shields.io/badge/HACS-custom-orange?style=for-the-badge" alt="HACS"></a>
+  <a href="https://github.com/superdarco78?tab=repositories"><img src="https://img.shields.io/badge/karty-1-2e7d32?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Karty"></a>
+  <a href="https://community.home-assistant.io/"><img src="https://img.shields.io/badge/forum-community-41BDF5?style=for-the-badge&logo=discourse&logoColor=white" alt="Forum HA"></a>
+  <img src="https://img.shields.io/badge/j%C4%99zyk-PL%20%7C%20EN-orange?style=for-the-badge" alt="Język">
 </p>
 
 ## 🏠 Moje karty do Home Assistanta
 
-| Karta | Opis | Gwiazdki | Wersja | HACS | Ostatnia zmiana |
-|---|---|:---:|:---:|:---:|:---:|
-| 🪟 [**Roleta dzień-noc**](https://github.com/superdarco78/roleta-realistyczna) | Realistyczna roleta dzień-noc na oknie: animacja w tempie silnika, pogoda i pora dnia za oknem, kreator | [![Stars](https://img.shields.io/github/stars/superdarco78/roleta-realistyczna?style=flat-square&label=)](https://github.com/superdarco78/roleta-realistyczna/stargazers) | [![Release](https://img.shields.io/github/v/release/superdarco78/roleta-realistyczna?style=flat-square&label=)](https://github.com/superdarco78/roleta-realistyczna/releases) | [![HACS](https://img.shields.io/badge/HACS-custom-41BDF5?style=flat-square)](https://my.home-assistant.io/redirect/hacs_repository/?owner=superdarco78&repository=roleta-realistyczna&category=plugin) | [![Last commit](https://img.shields.io/github/last-commit/superdarco78/roleta-realistyczna?style=flat-square&label=)](https://github.com/superdarco78/roleta-realistyczna/commits/main) |
+| | Karta | Opis | Gwiazdki | Wersja | Pobrania | HACS | Ostatnia zmiana | Forum |
+|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/logo.png" width="60"> | [**Roleta dzień-noc**](https://github.com/superdarco78/roleta-realistyczna) | Realistyczna roleta dzień-noc na oknie: animacja w tempie silnika, pogoda i pora dnia za oknem, kreator, PL/EN | [![Stars](https://img.shields.io/github/stars/superdarco78/roleta-realistyczna?style=flat-square&label=&color=f9a825)](https://github.com/superdarco78/roleta-realistyczna/stargazers) | [![Release](https://img.shields.io/github/v/release/superdarco78/roleta-realistyczna?style=flat-square&label=&color=0288d1)](https://github.com/superdarco78/roleta-realistyczna/releases) | [![Downloads](https://img.shields.io/github/downloads/superdarco78/roleta-realistyczna/total?style=flat-square&label=&color=2e7d32)](https://github.com/superdarco78/roleta-realistyczna/releases) | [![HACS](https://img.shields.io/badge/HACS-custom-41BDF5?style=flat-square)](https://my.home-assistant.io/redirect/hacs_repository/?owner=superdarco78&repository=roleta-realistyczna&category=plugin) | [![Last commit](https://img.shields.io/github/last-commit/superdarco78/roleta-realistyczna?style=flat-square&label=&color=6a1b9a)](https://github.com/superdarco78/roleta-realistyczna/commits/main) | [![Forum](https://img.shields.io/badge/forum-HA-41BDF5?style=flat-square&logo=discourse&logoColor=white)](https://community.home-assistant.io/) |
 
 <p align="center">
   <a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/dzien.png" width="30%"></a>
