@@ -16,15 +16,39 @@ Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu 
 
 ## 🏠 Moje karty do Home Assistanta
 
-| Karta | Opis | Gwiazdki | Wersja | Pobrania | HACS | Ostatnia zmiana | Forum |
-|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/ikona.png" width="80" height="80" alt="Roleta"></a><br>[**Roleta&nbsp;dzień&#8209;noc**](https://github.com/superdarco78/roleta-realistyczna) | Realistyczna roleta dzień-noc na oknie: animacja zsynchronizowana z silnikiem, pogoda i pora dnia za oknem, kreator, PL/EN | [![Stars](https://img.shields.io/github/stars/superdarco78/roleta-realistyczna?style=flat-square&label=&color=f9a825)](https://github.com/superdarco78/roleta-realistyczna/stargazers) | [![Release](https://img.shields.io/github/v/release/superdarco78/roleta-realistyczna?style=flat-square&label=&color=0288d1)](https://github.com/superdarco78/roleta-realistyczna/releases) | [![Downloads](https://img.shields.io/github/downloads/superdarco78/roleta-realistyczna/total?style=flat-square&label=&color=2e7d32)](https://github.com/superdarco78/roleta-realistyczna/releases) | [![HACS](https://img.shields.io/badge/HACS-custom-41BDF5?style=flat-square)](https://my.home-assistant.io/redirect/hacs_repository/?owner=superdarco78&repository=roleta-realistyczna&category=plugin) | [![Last commit](https://img.shields.io/github/last-commit/superdarco78/roleta-realistyczna?style=flat-square&label=&color=6a1b9a)](https://github.com/superdarco78/roleta-realistyczna/commits/main) | [![Forum HA](https://img.shields.io/badge/HA-41BDF5?style=flat-square&logo=discourse&logoColor=white)](https://community.home-assistant.io/) [![Forum PL](https://img.shields.io/badge/PL-dc143c?style=flat-square&logo=discourse&logoColor=white)](https://forum.arturhome.pl/) |
+<table>
+<tr>
+<td width="200" align="center"><a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/logo.png" width="180" alt="Roleta dzień-noc"></a></td>
+<td>
+
+### [Roleta dzień-noc](https://github.com/superdarco78/roleta-realistyczna)
+
+Twoja roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacja jedzie w tempie silnika, a za szybą widać aktualną pogodę i porę dnia. Kreator ustawia wszystko sam, bez YAML.
+
+[![Wersja](https://img.shields.io/github/v/release/superdarco78/roleta-realistyczna?style=for-the-badge&label=wersja&color=0288d1)](https://github.com/superdarco78/roleta-realistyczna/releases)
+[![Pobrania](https://img.shields.io/github/downloads/superdarco78/roleta-realistyczna/total?style=for-the-badge&label=pobrania&color=2e7d32)](https://github.com/superdarco78/roleta-realistyczna/releases)
+[![Gwiazdki](https://img.shields.io/github/stars/superdarco78/roleta-realistyczna?style=for-the-badge&label=gwiazdki&color=f9a825&logo=github)](https://github.com/superdarco78/roleta-realistyczna/stargazers)
+[![Ostatnia zmiana](https://img.shields.io/github/last-commit/superdarco78/roleta-realistyczna?style=for-the-badge&label=zmiana&color=6a1b9a)](https://github.com/superdarco78/roleta-realistyczna/commits/main)
+
+[![Otwórz w HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=superdarco78&repository=roleta-realistyczna&category=plugin)
+[![Forum HA](https://img.shields.io/badge/forum-HA-41BDF5?style=for-the-badge&logo=discourse&logoColor=white)](https://community.home-assistant.io/)
+[![Forum PL](https://img.shields.io/badge/forum-PL-dc143c?style=for-the-badge&logo=discourse&logoColor=white)](https://forum.arturhome.pl/)
+
+</td>
+</tr>
+</table>
+
+| 🪄 Kreator | 🔍 Sama wykrywa | 👆 Palcem | ⏱ 1:1 z silnikiem | 🌦 Pogoda | 🌅 Pora dnia | 🌍 PL / EN |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 3 kroki, bez YAML | rolety, silnik, kontaktrony | uchwyty, STOP | kalibracja 1 klik | deszcz, burza, śnieg | dzień, zachód, noc | wg języka HA |
 
 <p align="center">
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/dzien.png" width="30%"></a>
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/burza.png" width="30%"></a>
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/noc.png" width="30%"></a>
+  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/dzien.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany-jasne/dzien.png" width="24%"></picture></a>
+  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/burza.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany-jasne/burza.png" width="24%"></picture></a>
+  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/okno.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany-jasne/okno.png" width="24%"></picture></a>
+  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/noc.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany-jasne/noc.png" width="24%"></picture></a>
 </p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/animacja.gif" width="300" alt="Animacja"></p>
 
 Pełny spis: [**superdarco78/HA**](https://github.com/superdarco78/HA)
 
