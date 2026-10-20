@@ -1,3 +1,4 @@
+<p align="center"><img src="img/avatar.png" width="140" alt="superdarco78"></p>
 <h1 align="center">Cześć, tu Darek 👋</h1>
 <p align="center"><b>Home Assistant · karty Lovelace · inteligentny dom</b><br>
 Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu i dają się ustawić klikając, bez YAML.</p>
@@ -23,7 +24,7 @@ Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu 
 
 ### [Roleta dzień-noc](https://github.com/superdarco78/roleta-realistyczna)
 
-Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacja jest zsynchronizowana z silnikiem, a za szybą widać aktualną pogodę i porę dnia. Kreator ustawia wszystko sam, bez YAML.
+Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacja jest zsynchronizowana z silnikiem, a za szybą widać pogodę i porę dnia. Kreator ustawia kartę za Ciebie, bez YAML.
 
 [![Wersja](https://img.shields.io/github/v/release/superdarco78/roleta-realistyczna?style=for-the-badge&label=wersja&color=0288d1)](https://github.com/superdarco78/roleta-realistyczna/releases)
 [![Pobrania](https://img.shields.io/github/downloads/superdarco78/roleta-realistyczna/total?style=for-the-badge&label=pobrania&color=2e7d32)](https://github.com/superdarco78/roleta-realistyczna/releases)
@@ -55,14 +56,14 @@ Pełny spis: [**superdarco78/HA**](https://github.com/superdarco78/HA)
 ## 🛠 Na czym pracuję
 
 - 🪟 Okna i rolety: kolejne wersje rolety dzień-noc
-- 🌍 Każda karta po polsku i angielsku, automatycznie wg języka HA
-- 🪄 Kreatory krok po kroku, żeby każdy ustawił kartę bez czytania instrukcji
+- 🌍 Każda karta mówi po polsku i po angielsku. Język wybiera się sam.
+- 🪄 Kreator krok po kroku w każdej karcie. Ustawienie zajmuje minutę.
 
 ## 📈 Statystyki
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=superdarco78&show_icons=true&theme=transparent&hide_border=true&locale=pl" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superdarco78&layout=compact&theme=transparent&hide_border=true&locale=pl" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superdarco78&layout=compact&theme=transparent&hide_border=true&locale=pl&exclude_repo=AWF-Kierowcy,AWF-Mobile,Zapora-AWF,awf,formuler,ikony-przewoznikow,zigbee2mqtt.io,calendar-card-pro,kontroler-wmbus" height="160">
 </p>
 
 ---
