@@ -19,7 +19,7 @@ Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu 
 
 <table>
 <tr>
-<td width="200" align="center"><a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/logo.png" width="180" alt="Roleta dzień-noc"></a></td>
+<td width="200" align="center"><a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/logo-ha.png" width="180" alt="Roleta dzień-noc"></a></td>
 <td>
 
 ### [Roleta dzień-noc](https://github.com/superdarco78/roleta-realistyczna)
