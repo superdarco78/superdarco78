@@ -1,4 +1,4 @@
-<p align="center"><img src="img/avatar-dev-2-kolo.png" width="160" alt="superdarco78"></p>
+<p align="center"><a name="i1" href="#i1"><img src="img/avatar-dev-2-kolo.png" width="160" alt="superdarco78"></a></p>
 <h1 align="center">Cześć, tu Darek 👋</h1>
 <p align="center"><b>Home Assistant · karty Lovelace · inteligentny dom</b><br>
 Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu i dają się ustawić klikając, bez YAML.</p>
@@ -11,11 +11,11 @@ Robię karty do Home Assistanta, które wyglądają jak prawdziwe rzeczy w domu 
   <a href="https://community.home-assistant.io/"><img src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.home-assistant.io&style=for-the-badge&logo=discourse&logoColor=white&label=community%20forum&color=2e7d32" alt="Forum HA"></a>
   <a href="https://forum.arturhome.pl/"><img src="https://img.shields.io/badge/forum%20PL-arturhome.pl-dc143c?style=for-the-badge&logo=discourse&logoColor=white" alt="Forum arturhome.pl"></a>
   <a href="https://github.com/superdarco78?tab=repositories"><img src="https://img.shields.io/github/stars/superdarco78?affiliations=OWNER&style=for-the-badge&label=gwiazdki&color=f9a825&logo=github" alt="Gwiazdki"></a>
-  <img src="https://img.shields.io/badge/j%C4%99zyk-PL%20%7C%20EN-orange?style=for-the-badge" alt="Język">
+  <a name="i2" href="#i2"><img src="https://img.shields.io/badge/j%C4%99zyk-PL%20%7C%20EN-orange?style=for-the-badge" alt="Język"></a>
   <a href="https://github.com/superdarco78"><img src="https://img.shields.io/badge/maintainer-%40superdarco78-d32f2f?style=for-the-badge&logo=github" alt="Maintainer"></a>
 </p>
 
-## 🏠 Moje karty do Home Assistanta
+## <a name="i3" href="#i3"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/home-heart.png" height="30" align="absmiddle"></a> Moje karty do Home Assistanta
 
 <table>
 <tr>
@@ -39,9 +39,10 @@ Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacj
 </tr>
 </table>
 
-| 🪄 Kreator | 🔍 Sama wykrywa | 👆 Palcem | ⏱ 1:1 z silnikiem | 🌦 Pogoda | 🌅 Pora dnia | 🌍 PL / EN |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 7 prostych kroków, bez YAML | rolety, silnik, kontaktrony | uchwyty, STOP | kalibracja 1 klik | deszcz, burza, śnieg | dzień, zachód, noc | wg języka HA |
+<table>
+<tr><td align="center" valign="top" width="25%"><a name="i4" href="#i4"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#wyglad-w-roznych-sytuacjach"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/weather-partly-cloudy.png" height="56" alt=""><br><b>Pogoda</b><br><sub>Deszcz, śnieg, słońce albo noc za oknem</sub></a></td><td align="center" valign="top" width="25%"><a name="i5" href="#i5"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#akcje-jak-sterowac"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/gesture-swipe-vertical.png" height="56" alt=""><br><b>Sterowanie palcem</b><br><sub>Przesuń w górę albo w dół</sub></a></td><td align="center" valign="top" width="25%"><a name="i6" href="#i6"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#krok-4"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/auto-fix.png" height="56" alt=""><br><b>Kreator</b><br><sub>Sam znajdzie Twoje urządzenia</sub></a></td><td align="center" valign="top" width="25%"><a name="i7" href="#i7"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#okno-i-kontaktrony"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/window-open-variant.png" height="56" alt=""><br><b>Otwarte okno</b><br><sub>Pokazuje okno otwarte i uchylone</sub></a></td></tr>
+<tr><td align="center" valign="top" width="25%"><a name="i8" href="#i8"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#ruch-i-kalibracja"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/timer-outline.png" height="56" alt=""><br><b>Prędkość silnika</b><br><sub>Rusza się tak szybko jak silnik</sub></a></td><td align="center" valign="top" width="25%"><a name="i9" href="#i9"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#kolory-i-okleiny"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/palette.png" height="56" alt=""><br><b>Kolory</b><br><sub>Dąb, orzech, antracyt i inne</sub></a></td><td align="center" valign="top" width="25%"><a name="i10" href="#i10"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#wyglad"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/theme-light-dark.png" height="56" alt=""><br><b>Jasny i ciemny</b><br><sub>Pasuje do motywu Home Assistant</sub></a></td><td align="center" valign="top" width="25%"><a name="i11" href="#i11"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#tlumaczenia"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/translate.png" height="56" alt=""><br><b>Polski i angielski</b><br><sub>Język z Twojego profilu</sub></a></td></tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/stany/dzien.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/stany-jasne/dzien.png" width="24%"></picture></a>
@@ -49,7 +50,7 @@ Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacj
   <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/stany/okno.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/stany-jasne/okno.png" width="24%"></picture></a>
   <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/stany/noc.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/stany-jasne/noc.png" width="24%"></picture></a>
 </p>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/animacja-ciemna.webp"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/animacja.webp" width="300" alt="Animacja"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/animacja-ciemna.webp"><a name="i12" href="#i12"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/animacja.webp" width="300" alt="Animacja"></a></picture></p>
 
 <p align="center">
   <a href="https://github.com/superdarco78/roleta-realistyczna#readme"><img src="https://img.shields.io/badge/%F0%9F%93%96%20ZOBACZ%20WI%C4%98CEJ-pe%C5%82na%20instrukcja%20karty-0288d1?style=for-the-badge&logo=homeassistant&logoColor=white" height="64" alt="Zobacz więcej: pełna instrukcja karty"></a>
@@ -59,17 +60,17 @@ Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacj
   <a href="https://github.com/superdarco78/HA#readme"><img src="https://img.shields.io/badge/%F0%9F%97%82%20WSZYSTKIE%20KARTY-superdarco78%2FHA-2e7d32?style=for-the-badge&logo=github&logoColor=white" height="48" alt="Wszystkie karty: superdarco78/HA"></a>
 </p>
 
-## 🛠 Na czym pracuję
+## <a name="i13" href="#i13"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/toolbox.png" height="30" align="absmiddle"></a> Na czym pracuję
 
 - 🪟 Okna i rolety: kolejne wersje rolety dzień-noc
 - 🌍 Każda karta mówi po polsku i po angielsku. Język wybiera się sam.
 - 🪄 Kreator krok po kroku w każdej karcie. Ustawienie zajmuje minutę.
 
-## 📈 Statystyki
+## <a name="i14" href="#i14"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/v23/ikony/chart-line.png" height="30" align="absmiddle"></a> Statystyki
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=superdarco78&show_icons=true&theme=transparent&hide_border=true&locale=pl" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superdarco78&layout=compact&theme=transparent&hide_border=true&locale=pl&exclude_repo=AWF-Kierowcy,AWF-Mobile,Zapora-AWF,awf,formuler,ikony-przewoznikow,zigbee2mqtt.io,calendar-card-pro,kontroler-wmbus" height="160">
+  <a name="i15" href="#i15"><img src="https://github-readme-stats.vercel.app/api?username=superdarco78&show_icons=true&theme=transparent&hide_border=true&locale=pl" height="160"></a>
+  <a name="i16" href="#i16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superdarco78&layout=compact&theme=transparent&hide_border=true&locale=pl&exclude_repo=AWF-Kierowcy,AWF-Mobile,Zapora-AWF,awf,formuler,ikony-przewoznikow,zigbee2mqtt.io,calendar-card-pro,kontroler-wmbus" height="160"></a>
 </p>
 
 ---
