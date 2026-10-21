@@ -51,7 +51,13 @@ Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacj
 </p>
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/animacja-ciemna.gif"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/animacja.gif" width="300" alt="Animacja"></picture></p>
 
-Pełny spis: [**superdarco78/HA**](https://github.com/superdarco78/HA)
+<p align="center">
+  <a href="https://github.com/superdarco78/roleta-realistyczna#readme"><img src="https://img.shields.io/badge/%F0%9F%93%96%20ZOBACZ%20WI%C4%98CEJ-pe%C5%82na%20instrukcja%20karty-0288d1?style=for-the-badge&logo=homeassistant&logoColor=white" height="64" alt="Zobacz więcej: pełna instrukcja karty"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/superdarco78/HA#readme"><img src="https://img.shields.io/badge/%F0%9F%97%82%20WSZYSTKIE%20KARTY-superdarco78%2FHA-2e7d32?style=for-the-badge&logo=github&logoColor=white" height="48" alt="Wszystkie karty: superdarco78/HA"></a>
+</p>
 
 ## 🛠 Na czym pracuję
 
