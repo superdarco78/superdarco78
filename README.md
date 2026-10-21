@@ -41,7 +41,7 @@ Roleta dzień-noc (zebra) na oknie jak prawdziwa. Przesuwasz ją palcem, animacj
 
 | 🪄 Kreator | 🔍 Sama wykrywa | 👆 Palcem | ⏱ 1:1 z silnikiem | 🌦 Pogoda | 🌅 Pora dnia | 🌍 PL / EN |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 3 kroki, bez YAML | rolety, silnik, kontaktrony | uchwyty, STOP | kalibracja 1 klik | deszcz, burza, śnieg | dzień, zachód, noc | wg języka HA |
+| 7 prostych kroków, bez YAML | rolety, silnik, kontaktrony | uchwyty, STOP | kalibracja 1 klik | deszcz, burza, śnieg | dzień, zachód, noc | wg języka HA |
 
 <p align="center">
   <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany/dzien.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/stany-jasne/dzien.png" width="24%"></picture></a>
