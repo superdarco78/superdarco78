@@ -1,5 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=42" width="100%" alt="Superdarco"></p>
-<h1 align="center">Cześć, fajnie, że wpadłeś <img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/reka.svg?v=42" width="44" align="absmiddle" alt="👋"></h1>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=57" width="100%" alt="Superdarco"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/powitanie.svg?v=57" width="640" alt="Cześć, fajnie, że wpadłeś"></p>
 <p align="center"><b>Automatyka · aplikacje · elektronika · narzędzia</b><br>
 Lubię, gdy technika pracuje za ludzi. Tutaj znajdziesz moje projekty: od inteligentnego domu po małe programy i narzędzia na co dzień. Wszystko po polsku i po angielsku, proste w obsłudze.</p>
 
