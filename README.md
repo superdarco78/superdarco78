@@ -3,7 +3,7 @@
 <p align="center">Robię rzeczy, które ułatwiają życie: w domu, w pracy i po godzinach.<br>
 <sub>Wszystko po polsku, proste w obsłudze i najpierw sprawdzone u mnie.</sub></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/04ca343d8ac533be2fbd9d7ce8087fbb53bc63fc/kafelki.svg" width="100%" alt="Dom · Aplikacje · Elektronika · Narzędzia"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/4cbe8a16126705ea8fa478cbc58baba9b031c1e5/kafelki.svg" width="100%" alt="Dom · Aplikacje · Elektronika · Narzędzia"></p>
 
 <p align="center">
   <a href="https://github.com/superdarco78?tab=followers"><img src="https://img.shields.io/github/followers/superdarco78?style=for-the-badge&label=obserwuj&color=03a9f4" alt="Obserwujący"></a>
