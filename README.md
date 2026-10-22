@@ -1,7 +1,16 @@
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=58" width="100%" alt="Superdarco"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=59" width="100%" alt="Superdarco"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/powitanie.svg?v=57" width="640" alt="Cześć, fajnie, że wpadłeś"></p>
-<p align="center"><b>Automatyka · aplikacje · elektronika · narzędzia</b><br>
-Lubię, gdy technika pracuje za ludzi. Tutaj znajdziesz moje projekty: od inteligentnego domu po małe programy i narzędzia na co dzień. Wszystko po polsku i po angielsku, proste w obsłudze.</p>
+<p align="center">Robię rzeczy, które ułatwiają życie: w domu, w pracy i po godzinach.<br>
+<sub>Wszystko po polsku, proste w obsłudze i najpierw sprawdzone u mnie.</sub></p>
+
+<table align="center">
+<tr>
+<td align="center" width="200">🏠<br><b>Dom</b><br><sub>automatyka i Home Assistant</sub></td>
+<td align="center" width="200">📱<br><b>Aplikacje</b><br><sub>panele, karty i programy</sub></td>
+<td align="center" width="200">🔌<br><b>Elektronika</b><br><sub>ESP32, czujniki, piloty</sub></td>
+<td align="center" width="200">🛠️<br><b>Narzędzia</b><br><sub>skrypty na co dzień</sub></td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/superdarco78?tab=followers"><img src="https://img.shields.io/github/followers/superdarco78?style=for-the-badge&label=obserwuj&color=03a9f4" alt="Obserwujący"></a>
