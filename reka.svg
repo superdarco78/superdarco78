@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-<!-- reka v42 -->
-<style>.h{transform-box:fill-box;transform-origin:70% 90%;animation:w 2.5s ease-in-out infinite}
-@keyframes w{0%,60%,100%{transform:rotate(0)}10%{transform:rotate(14deg)}20%{transform:rotate(-8deg)}30%{transform:rotate(14deg)}40%{transform:rotate(-4deg)}50%{transform:rotate(10deg)}}
-@media (prefers-reduced-motion:reduce){.h{animation:none}}</style>
-<text class="h" x="32" y="50" text-anchor="middle" font-size="46" font-family="Segoe UI Emoji,Apple Color Emoji,Noto Color Emoji,sans-serif">👋</text>
-</svg>
