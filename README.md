@@ -1,4 +1,4 @@
-<p align="center"><img src="baner.svg" width="100%" alt="Superdarco – inteligentny dom, Home Assistant, narzędzia i skrypty"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=39" width="100%" alt="Superdarco"></p>
 <h1 align="center">Cześć, tu Darek 👋</h1>
 <p align="center"><b>Inteligentny dom · Home Assistant · narzędzia i skrypty</b><br>
 Tworzę karty i integracje do Home Assistanta, a także narzędzia, skrypty i małe programy do codziennej pracy. Po polsku i po angielsku, ustawiane klikając, bez YAML.</p>
