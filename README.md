@@ -1,6 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=60" width="100%" alt="Superdarco"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/powitanie.svg?v=60" width="640" alt="Cześć, fajnie, że wpadłeś"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/b9a5e2968bf71b893773f4ccff3b267250ed5056/kafelki.svg" width="100%" alt="Dom · Aplikacje · Elektronika · Narzędzia"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/baner.svg" width="100%" alt="Superdarco"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/powitanie-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/powitanie.svg" width="640" alt="Cześć, fajnie, że wpadłeś"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/kafelki-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/kafelki.svg" width="100%" alt="Dom · Aplikacje · Elektronika · Narzędzia"></picture></p>
 
 <p align="center">
   <a href="https://github.com/superdarco78?tab=followers"><img src="https://img.shields.io/github/followers/superdarco78?style=for-the-badge&label=obserwuj&color=03a9f4" alt="Obserwujący"></a>
