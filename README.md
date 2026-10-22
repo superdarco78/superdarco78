@@ -1,6 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/baner.svg" width="100%" alt="Superdarco"></p>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/powitanie-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/powitanie.svg" width="640" alt="Cześć, fajnie, że wpadłeś"></picture></p>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/opis-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/opis.svg" width="100%" alt="Robię rzeczy, które ułatwiają życie"></picture></p>
+<p align="center"><a href="https://github.com/superdarco78"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/baner.svg" width="100%" alt="Superdarco"></a></p>
+<p align="center"><a href="https://github.com/superdarco78"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/powitanie-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/powitanie.svg" width="640" alt="Cześć, fajnie, że wpadłeś"></picture></a></p>
+<p align="center"><a href="https://github.com/superdarco78"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/opis-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/opis.svg" width="100%" alt="Robię rzeczy, które ułatwiają życie"></picture></a></p>
 <p align="center">
   <a href="https://github.com/superdarco78/HA"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/kafelek-dom.svg" width="24%" alt="Dom"></a>
   <a href="https://github.com/superdarco78/Motor-HA"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/kafelek-aplikacje.svg" width="24%" alt="Aplikacje"></a>
@@ -25,7 +25,7 @@
   <a href="https://github.com/superdarco78?tab=repositories&language=javascript"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/tech-javascript.svg" width="15%" alt="JavaScript"></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/naglowek-projekty.svg" width="100%" alt="Moje projekty"></p>
+<p align="center"><a href="https://github.com/superdarco78?tab=repositories"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/naglowek-projekty.svg" width="100%" alt="Moje projekty"></a></p>
 
 <p align="center">
   <a href="https://www.home-assistant.io/"><img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"></a>
@@ -64,13 +64,13 @@ Wszystko, co ma silnik: rolety, żaluzje, plisy, zasłony, markizy, bramy i gara
   <a href="https://github.com/superdarco78/HA#readme"><img src="https://img.shields.io/badge/%F0%9F%97%82%20WSZYSTKIE%20KARTY-superdarco78%2FHA-2e7d32?style=for-the-badge&logo=github&logoColor=white" height="48" alt="Wszystkie karty: superdarco78/HA"></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/naglowek-praca.svg" width="100%" alt="Na czym pracuję"></p>
+<p align="center"><a href="https://github.com/superdarco78/Motor-HA"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/naglowek-praca.svg" width="100%" alt="Na czym pracuję"></a></p>
 
 - 🪟 Motor HA: okna, osłony, bramy i garaże w jednej integracji
 - 🌍 Motor HA mówi w 14 językach. Język wybiera się sam.
 - 🪄 Kreator krok po kroku. Ustawienie zajmuje minutę.
 
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/naglowek-statystyki.svg" width="100%" alt="Statystyki"></p>
+<p align="center"><a href="https://github.com/superdarco78?tab=repositories"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/naglowek-statystyki.svg" width="100%" alt="Statystyki"></a></p>
 
 <p align="center">
   <a name="i15" href="#i15"><img src="https://github-readme-stats.vercel.app/api?username=superdarco78&show_icons=true&theme=transparent&hide_border=true&locale=pl" height="160"></a>
@@ -81,4 +81,4 @@ Wszystko, co ma silnik: rolety, żaluzje, plisy, zasłony, markizy, bramy i gara
 <p align="center"><sub>🇬🇧 Hi, nice to see you here! I like it when technology works for people. Here you'll find my projects: from smart home to small apps and everyday tools. In Polish and English, easy to use.</sub></p>
 
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/stopka-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/stopka.svg" width="640" alt="Dzięki, że wpadłeś!"></picture></p>
+<p align="center"><a href="https://github.com/superdarco78?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/stopka-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/96c88e65dc0e73509f6f77bb09da797798183de8/stopka.svg" width="640" alt="Dzięki, że wpadłeś!"></picture></a></p>
