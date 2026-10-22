@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300"><!-- Superdarco baner v59 --><defs><linearGradient id="fr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3f6b62"/><stop offset=".5" stop-color="#a4b5a7"/><stop offset="1" stop-color="#c0574e"/></linearGradient></defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300"><!-- Superdarco baner v67 --><defs><linearGradient id="fr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3f6b62"/><stop offset=".5" stop-color="#a4b5a7"/><stop offset="1" stop-color="#c0574e"/></linearGradient></defs>
 <style>.run{stroke-dasharray:180 2800;animation:run 6s linear infinite}@keyframes run{to{stroke-dashoffset:-2980}}@media (prefers-reduced-motion:reduce){.run{animation:none}}</style>
 <rect x="0" y="0" width="1200" height="300" rx="26" fill="url(#fr)"/><svg x="8" y="8" width="1184" height="284" viewBox="0 0 1200 300" preserveAspectRatio="none">
 <!-- baner globalny v26 -->
