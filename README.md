@@ -1,21 +1,24 @@
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=39" width="100%" alt="Superdarco"></p>
-<h1 align="center">Cześć, tu Darek 👋</h1>
-<p align="center"><b>Inteligentny dom · Home Assistant · narzędzia i skrypty</b><br>
-Tworzę karty i integracje do Home Assistanta, a także narzędzia, skrypty i małe programy do codziennej pracy. Po polsku i po angielsku, ustawiane klikając, bez YAML.</p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=42" width="100%" alt="Superdarco"></p>
+<h1 align="center">Cześć, fajnie, że wpadłeś <img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/reka.svg?v=42" width="44" align="absmiddle" alt="👋"></h1>
+<p align="center"><b>Automatyka · aplikacje · elektronika · narzędzia</b><br>
+Lubię, gdy technika pracuje za ludzi. Tutaj znajdziesz moje projekty: od inteligentnego domu po małe programy i narzędzia na co dzień. Wszystko po polsku i po angielsku, proste w obsłudze.</p>
 
 <p align="center">
   <a href="https://github.com/superdarco78?tab=followers"><img src="https://img.shields.io/github/followers/superdarco78?style=for-the-badge&label=obserwuj&color=03a9f4" alt="Obserwujący"></a>
-  <a href="https://www.home-assistant.io/"><img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"></a>
-  <a href="https://hacs.xyz"><img src="https://img.shields.io/badge/HACS-custom-orange?style=for-the-badge" alt="HACS"></a>
-  <a href="https://github.com/superdarco78?tab=repositories"><img src="https://img.shields.io/badge/projekty-HA%20%C2%B7%20narz%C4%99dzia%20%C2%B7%20skrypty-2e7d32?style=for-the-badge&logo=github&logoColor=white" alt="Projekty"></a>
-  <a href="https://community.home-assistant.io/"><img src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.home-assistant.io&style=for-the-badge&logo=discourse&logoColor=white&label=community%20forum&color=2e7d32" alt="Forum HA"></a>
-  <a href="https://forum.arturhome.pl/"><img src="https://img.shields.io/badge/forum%20PL-arturhome.pl-dc143c?style=for-the-badge&logo=discourse&logoColor=white" alt="Forum arturhome.pl"></a>
+  <a href="https://github.com/superdarco78?tab=repositories"><img src="https://img.shields.io/badge/projekty-dom%20%C2%B7%20praca%20%C2%B7%20frajda-2e7d32?style=for-the-badge&logo=github&logoColor=white" alt="Projekty"></a>
   <a href="https://github.com/superdarco78?tab=repositories"><img src="https://img.shields.io/github/stars/superdarco78?affiliations=OWNER&style=for-the-badge&label=gwiazdki&color=f9a825&logo=github" alt="Gwiazdki"></a>
   <a name="i2" href="#i2"><img src="https://img.shields.io/badge/j%C4%99zyk-PL%20%7C%20EN-orange?style=for-the-badge" alt="Język"></a>
   <a href="https://github.com/superdarco78"><img src="https://img.shields.io/badge/maintainer-%40superdarco78-d32f2f?style=for-the-badge&logo=github" alt="Maintainer"></a>
 </p>
 
 ## <a name="i3" href="#i3"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/home-heart.png" height="36" align="absmiddle"></a> Moje projekty
+
+<p align="center">
+  <a href="https://www.home-assistant.io/"><img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"></a>
+  <a href="https://hacs.xyz"><img src="https://img.shields.io/badge/HACS-custom-orange?style=for-the-badge" alt="HACS"></a>
+  <a href="https://community.home-assistant.io/"><img src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.home-assistant.io&style=for-the-badge&logo=discourse&logoColor=white&label=community%20forum&color=2e7d32" alt="Forum HA"></a>
+  <a href="https://forum.arturhome.pl/"><img src="https://img.shields.io/badge/forum%20PL-arturhome.pl-dc143c?style=for-the-badge&logo=discourse&logoColor=white" alt="Forum arturhome.pl"></a>
+</p>
 
 <table>
 <tr>
@@ -74,4 +77,4 @@ Realistyczne okno z roletą (dzień-noc, plisa, żaluzja i inne). Przesuwasz ją
 </p>
 
 ---
-<p align="center"><sub>🇬🇧 Hi, I'm Darek. I build Home Assistant cards and integrations, plus tools and scripts for everyday work. Set up by clicking, no YAML.</sub></p>
+<p align="center"><sub>🇬🇧 Hi, nice to see you here! I like it when technology works for people. Here you'll find my projects: from smart home to small apps and everyday tools. In Polish and English, easy to use.</sub></p>
