@@ -1,6 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/baner.svg" width="100%" alt="Superdarco"></p>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/powitanie-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/powitanie.svg" width="640" alt="Cześć, fajnie, że wpadłeś"></picture></p>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/kafelki-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/62a9fa19a88cca44272cfa5007a04f470c316601/kafelki.svg" width="100%" alt="Dom · Aplikacje · Elektronika · Narzędzia"></picture></p>
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/baner.svg" width="100%" alt="Superdarco"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/powitanie-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/powitanie.svg" width="640" alt="Cześć, fajnie, że wpadłeś"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/kafelki-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/kafelki.svg" width="100%" alt="Dom · Aplikacje · Elektronika · Narzędzia"></picture></p>
 
 <p align="center">
   <a href="https://github.com/superdarco78?tab=followers"><img src="https://img.shields.io/github/followers/superdarco78?style=for-the-badge&label=obserwuj&color=03a9f4" alt="Obserwujący"></a>
@@ -10,7 +10,9 @@
   <a href="https://github.com/superdarco78"><img src="https://img.shields.io/badge/maintainer-%40superdarco78-d32f2f?style=for-the-badge&logo=github" alt="Maintainer"></a>
 </p>
 
-## <a name="i3" href="#i3"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/home-heart.png" height="36" align="absmiddle"></a> Moje projekty
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/technologie.svg" width="100%" alt="Home Assistant · ESPHome · ESP32 · Zigbee · Python · JavaScript"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/naglowek-projekty.svg" width="100%" alt="Moje projekty"></p>
 
 <p align="center">
   <a href="https://www.home-assistant.io/"><img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"></a>
@@ -49,13 +51,13 @@ Wszystko, co ma silnik: rolety, żaluzje, plisy, zasłony, markizy, bramy i gara
   <a href="https://github.com/superdarco78/HA#readme"><img src="https://img.shields.io/badge/%F0%9F%97%82%20WSZYSTKIE%20KARTY-superdarco78%2FHA-2e7d32?style=for-the-badge&logo=github&logoColor=white" height="48" alt="Wszystkie karty: superdarco78/HA"></a>
 </p>
 
-## <a name="i13" href="#i13"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/toolbox.png" height="36" align="absmiddle"></a> Na czym pracuję
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/naglowek-praca.svg" width="100%" alt="Na czym pracuję"></p>
 
 - 🪟 Motor HA: okna, osłony, bramy i garaże w jednej integracji
 - 🌍 Motor HA mówi w 14 językach. Język wybiera się sam.
 - 🪄 Kreator krok po kroku. Ustawienie zajmuje minutę.
 
-## <a name="i14" href="#i14"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/chart-line.png" height="36" align="absmiddle"></a> Statystyki
+<p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/naglowek-statystyki.svg" width="100%" alt="Statystyki"></p>
 
 <p align="center">
   <a name="i15" href="#i15"><img src="https://github-readme-stats.vercel.app/api?username=superdarco78&show_icons=true&theme=transparent&hide_border=true&locale=pl" height="160"></a>
@@ -64,3 +66,6 @@ Wszystko, co ma silnik: rolety, żaluzje, plisy, zasłony, markizy, bramy i gara
 
 ---
 <p align="center"><sub>🇬🇧 Hi, nice to see you here! I like it when technology works for people. Here you'll find my projects: from smart home to small apps and everyday tools. In Polish and English, easy to use.</sub></p>
+
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/stopka-ciemny.svg"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/45458fbdd9c154d2de9a7ca666f67445efc6b2a3/stopka.svg" width="640" alt="Dzięki, że wpadłeś!"></picture></p>
