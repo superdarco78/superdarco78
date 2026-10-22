@@ -1,8 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/baner.svg?v=60" width="100%" alt="Superdarco"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/main/powitanie.svg?v=60" width="640" alt="Cześć, fajnie, że wpadłeś"></p>
-<p align="center">Robię rzeczy, które ułatwiają życie: w domu, w pracy i po godzinach.<br>
-<sub>Wszystko po polsku, proste w obsłudze i najpierw sprawdzone u mnie.</sub></p>
-
 <p align="center"><img src="https://raw.githubusercontent.com/superdarco78/superdarco78/f91a412bc8ab7a3589d45bc77193daf7d5984cfe/kafelki.svg" width="100%" alt="Dom · Aplikacje · Elektronika · Narzędzia"></p>
 
 <p align="center">
