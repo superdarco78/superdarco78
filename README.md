@@ -20,43 +20,30 @@ Lubię, gdy technika pracuje za ludzi. Tutaj znajdziesz moje projekty: od inteli
   <a href="https://forum.arturhome.pl/"><img src="https://img.shields.io/badge/forum%20PL-arturhome.pl-dc143c?style=for-the-badge&logo=discourse&logoColor=white" alt="Forum arturhome.pl"></a>
 </p>
 
-<table>
-<tr>
-<td width="200" align="center"><a href="https://github.com/superdarco78/roleta-realistyczna"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/logo-okno-ha.png" width="180" alt="Okno HA"></a></td>
-<td>
+<p align="center"><a href="https://github.com/superdarco78/Motor-HA"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/baner/pl.svg" width="100%" alt="Motor HA"></a></p>
 
-### [Okno HA](https://github.com/superdarco78/roleta-realistyczna)
+### [Motor HA](https://github.com/superdarco78/Motor-HA)
 
-Realistyczne okno z roletą (dzień-noc, plisa, żaluzja i inne). Przesuwasz ją palcem, animacja jest zsynchronizowana z silnikiem, a za szybą widać pogodę i porę dnia. Kreator ustawia kartę za Ciebie, bez YAML.
-
-[![Wersja](https://img.shields.io/github/v/release/superdarco78/roleta-realistyczna?style=for-the-badge&label=wersja&color=0288d1)](https://github.com/superdarco78/roleta-realistyczna/releases)
-[![Pobrania](https://img.shields.io/github/downloads/superdarco78/roleta-realistyczna/total?style=for-the-badge&label=pobrania&color=2e7d32)](https://github.com/superdarco78/roleta-realistyczna/releases)
-[![Gwiazdki](https://img.shields.io/github/stars/superdarco78/roleta-realistyczna?style=for-the-badge&label=gwiazdki&color=f9a825&logo=github)](https://github.com/superdarco78/roleta-realistyczna/stargazers)
-[![Ostatnia zmiana](https://img.shields.io/github/last-commit/superdarco78/roleta-realistyczna?style=for-the-badge&label=zmiana&color=6a1b9a)](https://github.com/superdarco78/roleta-realistyczna/commits/main)
-
-[![Otwórz w HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=superdarco78&repository=roleta-realistyczna&category=plugin)
-[![Forum HA](https://img.shields.io/badge/forum-HA-41BDF5?style=for-the-badge&logo=discourse&logoColor=white)](https://community.home-assistant.io/)
-[![Forum PL](https://img.shields.io/badge/forum-PL-dc143c?style=for-the-badge&logo=discourse&logoColor=white)](https://forum.arturhome.pl/)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr><td align="center" valign="top" width="25%"><a name="i4" href="#i4"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#wyglad-w-roznych-sytuacjach"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/weather-partly-cloudy.png" height="62" alt=""><br><b>Pogoda</b><br><sub>Deszcz, śnieg, słońce albo noc za oknem</sub></a></td><td align="center" valign="top" width="25%"><a name="i5" href="#i5"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#akcje-jak-sterowac"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/gesture-swipe-vertical.png" height="62" alt=""><br><b>Sterowanie palcem</b><br><sub>Przesuń w górę albo w dół</sub></a></td><td align="center" valign="top" width="25%"><a name="i6" href="#i6"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#krok-4"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/auto-fix.png" height="62" alt=""><br><b>Kreator</b><br><sub>Sam znajdzie Twoje urządzenia</sub></a></td><td align="center" valign="top" width="25%"><a name="i7" href="#i7"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#okno-i-kontaktrony"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/window-open-variant.png" height="62" alt=""><br><b>Otwarte okno</b><br><sub>Pokazuje okno otwarte i uchylone</sub></a></td></tr>
-<tr><td align="center" valign="top" width="25%"><a name="i8" href="#i8"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#ruch-i-kalibracja"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/timer-outline.png" height="62" alt=""><br><b>Prędkość silnika</b><br><sub>Rusza się tak szybko jak silnik</sub></a></td><td align="center" valign="top" width="25%"><a name="i9" href="#i9"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#kolory-i-okleiny"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/palette.png" height="62" alt=""><br><b>Kolory</b><br><sub>Dąb, orzech, antracyt i inne</sub></a></td><td align="center" valign="top" width="25%"><a name="i10" href="#i10"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#wyglad"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/theme-light-dark.png" height="62" alt=""><br><b>Jasny i ciemny</b><br><sub>Pasuje do motywu Home Assistant</sub></a></td><td align="center" valign="top" width="25%"><a name="i11" href="#i11"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/odstep.png" width="215" height="0"></a><br><a href="https://github.com/superdarco78/roleta-realistyczna#tlumaczenia"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/translate.png" height="62" alt=""><br><b>Polski i angielski</b><br><sub>Język z Twojego profilu</sub></a></td></tr>
-</table>
+Wszystko, co ma silnik: rolety, żaluzje, plisy, zasłony, markizy, bramy i garaże. Każde urządzenie dostaje kartę, która wygląda jak prawdziwe okno albo brama, rusza się w tempie silnika i pokazuje pogodę za szybą. Kreator sam znajduje urządzenia w domu, a automatyka jest opcjonalna. Bez YAML.
 
 <p align="center">
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany/dzien.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany-jasne/dzien.png" width="24%"></picture></a>
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany/burza.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany-jasne/burza.png" width="24%"></picture></a>
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany/okno.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany-jasne/okno.png" width="24%"></picture></a>
-  <a href="https://github.com/superdarco78/roleta-realistyczna"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany/noc.png"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/stany-jasne/noc.png" width="24%"></picture></a>
+<a href="https://github.com/superdarco78/Motor-HA/releases/latest"><img src="https://img.shields.io/github/v/release/superdarco78/Motor-HA?style=for-the-badge&label=wersja&color=009AC7" alt="wersja"></a>
+<a href="https://github.com/superdarco78/Motor-HA/releases"><img src="https://img.shields.io/github/downloads/superdarco78/Motor-HA/total?style=for-the-badge&label=pobrania&color=4CAF50" alt="pobrania"></a>
+<a href="https://github.com/superdarco78/Motor-HA/stargazers"><img src="https://img.shields.io/github/stars/superdarco78/Motor-HA?style=for-the-badge&label=gwiazdki&color=FF9800&logo=github&logoColor=white" alt="gwiazdki"></a>
+<a href="https://github.com/superdarco78/Motor-HA/commits/main"><img src="https://img.shields.io/github/last-commit/superdarco78/Motor-HA?style=for-the-badge&label=zmiana&color=8E44AD" alt="zmiana"></a>
 </p>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/animacja-ciemna.webp"><a name="i12" href="#i12"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/animacja.webp" width="300" alt="Animacja"></a></picture></p>
+
+<p align="center"><a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=superdarco78&repository=Motor-HA&category=integration"><img src="https://img.shields.io/badge/-Otw%C3%B3rz%20w%20HACS-009AC7?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white" height="36" alt="Otwórz w HACS"></a></p>
+
+<table>
+<tr><td align="center" valign="top" width="25%"><a href="https://github.com/superdarco78/Motor-HA#kreator"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/ikony/auto-fix.svg" width="56" height="56" alt=""><br><b>Kreator</b><br><sub>Sam znajduje urządzenia w domu</sub></a></td><td align="center" valign="top" width="25%"><a href="https://github.com/superdarco78/Motor-HA#oslony"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/ikony/window-shutter.svg" width="56" height="56" alt=""><br><b>24 rodzaje</b><br><sub>Rolety, żaluzje, markizy, bramy</sub></a></td><td align="center" valign="top" width="25%"><a href="https://github.com/superdarco78/Motor-HA#automatyka"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/ikony/robot.svg" width="56" height="56" alt=""><br><b>Automatyka</b><br><sub>31 funkcji, każda osobno</sub></a></td><td align="center" valign="top" width="25%"><a href="https://github.com/superdarco78/Motor-HA#oslony"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/ikony/weather-partly-cloudy.svg" width="56" height="56" alt=""><br><b>Pogoda za szybą</b><br><sub>Słońce, deszcz, śnieg i noc</sub></a></td></tr>
+<tr><td align="center" valign="top" width="25%"><a href="https://github.com/superdarco78/Motor-HA#bramy"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/ikony/gate.svg" width="56" height="56" alt=""><br><b>Bramy i garaże</b><br><sub>Bezpiecznie, z fotokomórką</sub></a></td><td align="center" valign="top" width="25%"><a href="https://github.com/superdarco78/Motor-HA#powiadomienia"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/ikony/bell-ring-outline.svg" width="56" height="56" alt=""><br><b>Powiadomienia</b><br><sub>Bateria, brak odpowiedzi</sub></a></td><td align="center" valign="top" width="25%"><a href="https://github.com/superdarco78/Motor-HA#dom"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/ikony/home-outline.svg" width="56" height="56" alt=""><br><b>Karta domu</b><br><sub>Wszystkie osłony na jednej karcie</sub></a></td><td align="center" valign="top" width="25%"><a href="https://github.com/superdarco78/Motor-HA#licencja"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/ikony/translate.svg" width="56" height="56" alt=""><br><b>14 języków</b><br><sub>Język z Twojego profilu HA</sub></a></td></tr>
+</table>
+
+<p align="center"><a href="https://github.com/superdarco78/Motor-HA"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/pokaz/pl-ciemny.webp"><img src="https://raw.githubusercontent.com/superdarco78/Motor-HA/main/img/pokaz/pl-jasny.webp" width="100%" alt="Motor HA: roleta dzień-noc, żaluzja fasadowa, markiza i brama"></picture></a></p>
 
 <p align="center">
-  <a href="https://github.com/superdarco78/roleta-realistyczna#readme"><img src="https://img.shields.io/badge/%F0%9F%93%96%20ZOBACZ%20WI%C4%98CEJ-pe%C5%82na%20instrukcja%20karty-0288d1?style=for-the-badge&logo=homeassistant&logoColor=white" height="64" alt="Zobacz więcej: pełna instrukcja karty"></a>
+  <a href="https://github.com/superdarco78/Motor-HA#readme"><img src="https://img.shields.io/badge/%F0%9F%93%96%20ZOBACZ%20WI%C4%98CEJ-pe%C5%82na%20instrukcja-009AC7?style=for-the-badge&logo=homeassistant&logoColor=white" height="64" alt="Zobacz więcej: pełna instrukcja"></a>
 </p>
 
 <p align="center">
@@ -65,9 +52,9 @@ Realistyczne okno z roletą (dzień-noc, plisa, żaluzja i inne). Przesuwasz ją
 
 ## <a name="i13" href="#i13"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/toolbox.png" height="36" align="absmiddle"></a> Na czym pracuję
 
-- 🪟 Okna i rolety: kolejne wersje karty Okno HA (zasłony, markizy)
-- 🌍 Każda karta mówi po polsku i po angielsku. Język wybiera się sam.
-- 🪄 Kreator krok po kroku w każdej karcie. Ustawienie zajmuje minutę.
+- 🪟 Motor HA: okna, osłony, bramy i garaże w jednej integracji
+- 🌍 Motor HA mówi w 14 językach. Język wybiera się sam.
+- 🪄 Kreator krok po kroku. Ustawienie zajmuje minutę.
 
 ## <a name="i14" href="#i14"><img src="https://raw.githubusercontent.com/superdarco78/roleta-realistyczna/main/img/z3/ikony-ha3/chart-line.png" height="36" align="absmiddle"></a> Statystyki
 
